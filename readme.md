@@ -18,12 +18,17 @@ This is a simple landing page for an online store called UrbanShop. I built it w
 - **Mobile friendly:** On phones, the menu stacks up and the cards sit in one column so everything is easy to read.
 
 ## Screenshots
-![Desktop view](desktop.png.png)
-![Mobile view](mobile.png.jpg)
+![Desktop view](desktop.jpg)
+
+
+
+![Mobile view](mobile.jpg)
 
 ## Files
 
 - `index.html`: the page content
 - `style.css`: the styling
-- `desktop.png.png` and `mobile.png.jpg`: desktop and mobile previews
+- `desktop.png` and `mobile.jpg`: desktop and mobile previews
 - `watch.jpg`, `shoes.jpg`, `handbag.jpg` and `sunglasses.jpg`: product photos
+
+[def]: desktop.png
